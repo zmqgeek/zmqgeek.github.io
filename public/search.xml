@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
+    <url>/2021/05/20/2019_TSE_SequenceR/</url>
+    <content><![CDATA[<p>Publication: TSE 2019<br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
+      <tags>
+        <tag>Program Repair</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>testing</title>
     <url>/2021/03/01/testing/</url>
     <content><![CDATA[<p>wenben</p>
