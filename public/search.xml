@@ -28,4 +28,12 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>topic_model</title>
+    <url>/2021/03/02/topic-model/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>deep learning</tag>
+      </tags>
+  </entry>
 </search>
