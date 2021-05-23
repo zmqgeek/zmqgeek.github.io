@@ -50,6 +50,33 @@
       </tags>
   </entry>
   <entry>
+    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
+    <url>/2021/05/20/2019_TSE_SequenceR/</url>
+    <content><![CDATA[<p>Publication: <a href="https://ieeexplore.ieee.org/document/8827954">TSE 2019</a><br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
+      <tags>
+        <tag>Program Repair</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/02/28/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>雅思语法（词性）</title>
     <url>/2021/05/23/2021-grammer-part-of-speech/</url>
     <content><![CDATA[<h2 id="名词"><a href="#名词" class="headerlink" title="名词"></a>名词</h2><h3 id="易用错名词"><a href="#易用错名词" class="headerlink" title="易用错名词"></a>易用错名词</h3><p>person     单数<br>persons    复数（特指具有特定特征的人群;如50名人大代表）<br>people     复数（指代一群人无具体特征）<br>peoples    民族</p>
@@ -124,18 +151,35 @@
 <p>元音字母（5个）: A、E、I、O、U</p>
 <p>辅音字母（20个）: B、C、D、F、G、H、J、K、L、M、N、P、Q、R、S、T、V、W、X、Z</p>
 <p>半元音的Y（1个）：即非元音，Y有时候读/i/和/i:/两种读音，比如单词city、baby等。</p>
+<h3 id="专有名词"><a href="#专有名词" class="headerlink" title="专有名词"></a>专有名词</h3><p><font color=red>专有名词首字母大写</font></p>
+<p>专有名词：国家名、人名、活动名称</p>
+<p>国家名/地名：Africa(非洲), Germany(德国), Melbourne(墨尔本)</p>
+<p>人名：Alistair, Pilkington</p>
+<p>活动名称：Olympic, Games</p>
+<h3 id="名词修饰词"><a href="#名词修饰词" class="headerlink" title="名词修饰词"></a>名词修饰词</h3><ol>
+<li><p>few (几乎没有) / a few (有一些) / many + 可数n.   (可数名词谓语动词用复数)</p>
+</li>
+<li><p>little / a little / much + 不可数n.   (不可数名词谓语动词用单数)</p>
+</li>
+<li><p>number (修饰可数n.) / amount (修饰不可数n.) / quantity (both n.)</p>
+</li>
+</ol>
+<p>note: number/amount/many本身为可数名词—&gt;例:numbers</p>
+<p>例句（可数名词）：</p>
+<p>1）A number of apple<u>s</u> <u>are</u> red. (主语为apples)</p>
+<p>2）The number of apples <u>is</u> 80. (主语为数量number)</p>
+<p>例句（不可数名词）：</p>
+<p>3）An amount of water <u>is</u> hot. (主语为water)</p>
+<ol start="4">
+<li>The amount of water <u>is</u> 80L. (主语为amount)</li>
+</ol>
+<p>例句（and连接时）：</p>
+<p>5）The amounts/quantities of water and juice <u>are</u> 80L and 100L. (主语为amounts/quantities)</p>
+<p>考察形式：</p>
+<p>eg: a number of <u>可数名词复数，且表示人</u>, who stood at a long central desk.</p>
 ]]></content>
       <tags>
         <tag>English</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
-    <url>/2021/05/20/2019_TSE_SequenceR/</url>
-    <content><![CDATA[<p>Publication: <a href="https://ieeexplore.ieee.org/document/8827954">TSE 2019</a><br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
-<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
-      <tags>
-        <tag>Program Repair</tag>
       </tags>
   </entry>
   <entry>
@@ -145,23 +189,5 @@
       <tags>
         <tag>deep learning</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/02/28/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
 </search>
