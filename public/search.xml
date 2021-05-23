@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
-    <url>/2021/05/20/2019_TSE_SequenceR/</url>
-    <content><![CDATA[<p>Publication: TSE 2019<br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
-<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
-      <tags>
-        <tag>Program Repair</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>testing</title>
-    <url>/2021/03/01/testing/</url>
-    <content><![CDATA[<p>wenben</p>
-<p>gengxin</p>
+    <title>2021_grammer_overview</title>
+    <url>/2021/05/23/2021-grammer-overview/</url>
+    <content><![CDATA[<h2 id="雅思基本语法"><a href="#雅思基本语法" class="headerlink" title="雅思基本语法"></a>雅思基本语法</h2><h3 id="语法体系"><a href="#语法体系" class="headerlink" title="语法体系"></a>语法体系</h3><table>
+<thead>
+<tr>
+<th>简单句(5.5)</th>
+<th>复杂句(6.5)</th>
+<th>非谓语动词(7+)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>词性 8/10</td>
+<td>定语从句</td>
+<td>不定式:to do</td>
+</tr>
+<tr>
+<td>时态 4/16</td>
+<td>宾语/表语从句</td>
+<td>现在分词:do + ing</td>
+</tr>
+<tr>
+<td>被动</td>
+<td>主语从句</td>
+<td>过去分词: do + ed</td>
+</tr>
+<tr>
+<td>there be句型</td>
+<td>状语从句 5/9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>同位语从句</td>
+<td>-</td>
+</tr>
+</tbody></table>
+<h3 id="Details"><a href="#Details" class="headerlink" title="Details"></a>Details</h3><p>词性：名词/动词/形容词/副词/代词(pn.)/介词/数词/冠词</p>
+<p>时态：现在进行时/一般现在时/一般过去时/一般将来时</p>
+<p>状语从句：时间/原因/结果/条件/让步</p>
+<p>非谓语动词：可作为主宾定状表，不可作为谓语</p>
+<h3 id="句子结构组成"><a href="#句子结构组成" class="headerlink" title="句子结构组成"></a>句子结构组成</h3><p>主语(n./pn./非谓语动词) + 谓语(v./be) + 宾语(n./pn./非谓语动词)</p>
+<p>可修饰名词：n./adj./非谓语动词(定语)</p>
+<p>可修饰动词：adv.(还可以修饰adj.和adv.) </p>
 ]]></content>
       <tags>
-        <tag>testing</tag>
+        <tag>English</tag>
       </tags>
   </entry>
   <entry>
@@ -36,6 +66,15 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
+    <url>/2021/05/20/2019_TSE_SequenceR/</url>
+    <content><![CDATA[<p>Publication: <a href="https://ieeexplore.ieee.org/document/8827954">TSE 2019</a><br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
+      <tags>
+        <tag>Program Repair</tag>
+      </tags>
   </entry>
   <entry>
     <title>topic_model</title>
