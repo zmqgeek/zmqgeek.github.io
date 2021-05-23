@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
-    <url>/2021/05/20/2019_TSE_SequenceR/</url>
-    <content><![CDATA[<p>Publication: <a href="https://ieeexplore.ieee.org/document/8827954">TSE 2019</a><br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
-<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
-      <tags>
-        <tag>Program Repair</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/02/28/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>topic_model</title>
-    <url>/2021/03/02/topic-model/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>deep learning</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>雅思基本语法概述</title>
     <url>/2021/05/23/2021-grammer-overview/</url>
     <content><![CDATA[<h3 id="语法体系"><a href="#语法体系" class="headerlink" title="语法体系"></a>语法体系</h3><table>
@@ -83,5 +48,120 @@
       <tags>
         <tag>English</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>雅思语法（词性）</title>
+    <url>/2021/05/23/2021-grammer-part-of-speech/</url>
+    <content><![CDATA[<h2 id="名词"><a href="#名词" class="headerlink" title="名词"></a>名词</h2><h3 id="易用错名词"><a href="#易用错名词" class="headerlink" title="易用错名词"></a>易用错名词</h3><p>person     单数<br>persons    复数（特指具有特定特征的人群;如50名人大代表）<br>people     复数（指代一群人无具体特征）<br>peoples    民族</p>
+<p><font color=red>note: 一些词是复数形式，但是是不可数名词</font></p>
+<p>例如: news, economics (谓语动词用单数)</p>
+<p>常用可数名词: assignments, enterprises, gifts, breakthroughs, funds, grants</p>
+<p>常用不可数名词: competition, support, communication</p>
+<h3 id="名词常见后缀"><a href="#名词常见后缀" class="headerlink" title="名词常见后缀"></a>名词常见后缀</h3><table>
+<thead>
+<tr>
+<th>后缀</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-tion</td>
+<td>situation, introduction, education</td>
+</tr>
+<tr>
+<td>-ment</td>
+<td>apartment, movement, equipment</td>
+</tr>
+<tr>
+<td>-ship</td>
+<td>relationship, leadership, membership</td>
+</tr>
+<tr>
+<td>-ism</td>
+<td>criticism, tourism, enthusiasm</td>
+</tr>
+<tr>
+<td>-or/er/ar</td>
+<td>actor, teacher, scholar</td>
+</tr>
+</tbody></table>
+<p><font color=red>note: perspective (n. 观点，前途，前景)，produce (v./n. 农产品)</font></p>
+<h3 id="名词复数变化规则"><a href="#名词复数变化规则" class="headerlink" title="名词复数变化规则"></a>名词复数变化规则</h3><p>等同于v. + s变化规则</p>
+<table>
+<thead>
+<tr>
+<th>名词结构</th>
+<th>复数变化规则</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>一般情况</td>
+<td>在词尾+s</td>
+<td>map-&gt;maps</td>
+</tr>
+<tr>
+<td>以s, x, ch, sh结尾的词</td>
+<td>在词尾+es</td>
+<td>bus-&gt;buses</td>
+</tr>
+<tr>
+<td>以f或fe结尾的词</td>
+<td>变f或fe为v再+es</td>
+<td>life-&gt;lives</td>
+</tr>
+<tr>
+<td>以辅音字母+o结尾的词</td>
+<td>在词尾+es</td>
+<td>potato-&gt;potatoes</td>
+</tr>
+<tr>
+<td>以辅音字母+y结尾的词</td>
+<td>变y为i再+es</td>
+<td>family-&gt;families</td>
+</tr>
+</tbody></table>
+<p>元音字母（5个）: A、E、I、O、U</p>
+<p>辅音字母（20个）: B、C、D、F、G、H、J、K、L、M、N、P、Q、R、S、T、V、W、X、Z</p>
+<p>半元音的Y（1个）：即非元音，Y有时候读/i/和/i:/两种读音，比如单词city、baby等。</p>
+]]></content>
+      <tags>
+        <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SequenceR Sequence-to-Sequence Learning for End-to-End Program Repair</title>
+    <url>/2021/05/20/2019_TSE_SequenceR/</url>
+    <content><![CDATA[<p>Publication: <a href="https://ieeexplore.ieee.org/document/8827954">TSE 2019</a><br>Author: Zimin Chen, Steve James Kommrusch, Michele Tufano, Louis-Noel Pouchet, Denys Poshyvanyk, Martin Monperrus<br>Affiliation: KTH, CSU, W&amp;M<br>Code: <a href="https://github.com/KTH/chai">KTH/chai</a></p>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2>]]></content>
+      <tags>
+        <tag>Program Repair</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>topic_model</title>
+    <url>/2021/03/02/topic-model/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>deep learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/02/28/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
